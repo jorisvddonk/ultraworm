@@ -1,0 +1,16 @@
+Replacement font for RotT (VT323 font family)
+VT323 font over at http://www.google.com/webfonts/family?family=VT323&subset=latin (SIL Open Font License 1.1)
+---------------------------------------------
+
+These are all generated with the FontConverter:
+
+speech.jgfont: VT323-PLAIN-26
+tinyfont.jgfont: VT323-PLAIN-26
+smallfont.jgfont: VT323-BOLD-32
+bigfont.jgfont: VT323-BOLD-45
+
+speech.jgfont doesn't seem to be used anywhere. Not even for speech. :)
+tinyfont.jgfont is 95% of all the game's text (regular font)
+smallfont.jgfont is the bigger fonts you see in the game, such as all the numbers on the campaign screen, and the Titan names on the Titan description pages.
+bigfont.jgfont is the "EXTREME DANGER" text, plus some other texts such as "GAME PAUSED" when you hit escape in-game.
+
